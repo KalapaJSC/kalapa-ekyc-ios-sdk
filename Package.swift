@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "KalapaEkycSDK",
-            url: "https://raw.githubusercontent.com/KalapaJSC/kalapa-ekyc-ios-sdk/master/KalapaEkycSDK/2.8.8/KalapaSDK.xcframework.zip",
-            checksum: "f46b8f174292c5fa17649497ef232716e750b3f3b79933d16e85a79aaa4c83c1"
+            url: "https://raw.githubusercontent.com/KalapaJSC/kalapa-ekyc-ios-sdk/master/KalapaEkycSDK/2.8.9/KalapaSDK.xcframework.zip",
+            checksum: "10f44b8ec0197266d26ccfa49fccf55242efb8d4ac5126004c7ca6018ce4e1dd"
         )
     ]
 )
